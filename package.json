@@ -1,0 +1,15 @@
+{
+  "name": "pwc-test",
+  "version": "1.0.0",
+  "description": "PriceBasket Implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Jasleen",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2"
+  }
+}
